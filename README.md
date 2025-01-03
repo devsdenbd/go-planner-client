@@ -37,7 +37,7 @@ Before setting up the project, ensure you have the following installed on your m
 Clone the FlexiSpace project repository from GitHub to your local machine:
 
 ```base
-git clone https://github.com/yourusername/go-planner-client.git
+git clone https://github.com/devsdenbd/go-planner-client.git
 ```
 
 Navigate into the project directory:
